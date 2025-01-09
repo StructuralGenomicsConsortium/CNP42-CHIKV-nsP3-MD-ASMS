@@ -13,7 +13,8 @@ For answers to all the questions you have, go to the [FAQs](https://www.thesgc.o
 If you'd like to contact someone to talk about contributing, then, write something in an Issue (see the tabs above), which is a good way to communicate openly. Issues serve as discussion forums - you need a Github account, but it's super easy and not spammy. There's also an email address (chemistry@thesgc.org) you can use to ask questions. You can read more about all this in the ["How To"](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki) area  
 Some humans involved in this CNP: 
 
-Chemistry:  
+### Team involved:
+#### Chemistry:  
 
 ............., Chemist at University College London 
 
@@ -21,15 +22,17 @@ Dr. Rahman Saleem, Project coordinator at University College London @rahmanszsal
 
 Professor Matthew Todd, University College London. Head of Chemistry Networks at the SGC (medchem) @mattodd 
 
+#### Bioassay
+
 Dr. Wenjie Chen, Protein Scientist University College London, @Wenjie-Ch 
 
-ASMS team
+#### ASMS team
 
 Xiaoyun Wang 
 
 Jianxian Sun
 
-Soaking/Cocystalization team
+#### Soaking/Cocystalization team
 
 Dr. Daren Fearon, Senior Beamline Scientist Diamond Light Source. 
 
@@ -53,7 +56,7 @@ Potential Contributors:
 
 You can see other contributors in the Issues (tab above).
 
-# License for the content of this project
+### License for the content of this project
 The license for the content of this project is, unless otherwise stated, and as for all OCN projects, CC-BY-4.0. This means you can do whatever you like with the project content, including making money, provided you cite the project.
 
 This project is part of the SGC's Open Chemistry Networks initiative.
