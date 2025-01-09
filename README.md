@@ -1,19 +1,16 @@
 # CNP42-CHIKV-nsP3-MD-ASMS
 
-An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project (number 42) devoted to ASMS screening and subsequent medchem  for CHIKV-nsP3-Macrodomain. The project is run as part of the READDI-AViDD consortium.
+This is an [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project (number 42) devoted to ASMS screening and subsequent medchem for CHIKV-nsP3-Macrodomain. The project is run as part of the READDI-AViDD consortium.
 
-You contribute synthetic chemistry, and, in return, the SGC/READDI offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 license.
-
-If this sounds interesting, and you agree to the simple [RULES](https://www.thesgc.org/sgc-open-chemistry-networks/terms-of-use), you can get started.
+You **contribute synthetic chemistry**, and, in return, the SGC/READDI offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 license. If this sounds interesting, and you agree to the simple [RULES](https://www.thesgc.org/sgc-open-chemistry-networks/terms-of-use), you can get started.
 
 For the science background, head to the [wiki](https://github.com/StructuralGenomicsConsortium/CNP42-CHIKV-nsP3-MD-ASMS/wiki) 
 
 For answers to all the questions you have, go to the [FAQs](https://www.thesgc.org/sgc-open-chemistry-networks/faq).
 
-If you'd like to contact someone to talk about contributing, then, write something in an Issue (see the tabs above), which is a good way to communicate openly. Issues serve as discussion forums - you need a Github account, but it's super easy and not spammy. There's also an email address (chemistry@thesgc.org) you can use to ask questions. You can read more about all this in the ["How To"](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki) area  
+If you'd like to contact someone to talk about contributing, write something in an Issue (see the tabs above), which is a good way to communicate openly. Issues serve as discussion forums - you need a Github account, but it's super easy and not spammy. There's also an email address (chemistry@thesgc.org) you can use to ask questions. You can read more about all this in the ["How To"](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki) area  
 Some humans involved in this CNP: 
 
-### Team involved:
 #### Chemistry:  
 
 ............., Chemist at University College London 
