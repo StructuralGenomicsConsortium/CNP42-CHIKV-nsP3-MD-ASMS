@@ -28,15 +28,19 @@ Dr. Wenjie Chen, Protein Scientist University College London, @Wenjie-Ch
 
 #### ASMS team
 
-Xiaoyun Wang 
+Dr. Xiaoyun Wang, Structural Genomics Consortium, University of Toronto 
 
-Jianxian Sun
+Dr. Jianxian Sun, Structural Genomics Consortium, University of Toronto
+
+Dr. Hui Peng, Structural Genomics Consortium, University of Toronto
+
+Dr. Levon Halabelian, Structural Genomics Consortium, University of Toronto
 
 #### Soaking/Cocystalization team
 
-Dr. Daren Fearon, Senior Beamline Scientist Diamond Light Source. 
+Dr. Daren Fearon, Senior Beamline Scientist, Diamond Light Source. 
 
-Dr. Jasmin Aschenbrenner, Scientist at Diamond Light Source 
+Dr. Jasmin Aschenbrenner, Scientist at Diamond Light Source
 
 Dr. Warren Thompson, Diamond Light Source, @waztom
 
