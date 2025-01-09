@@ -25,6 +25,12 @@ Dr. Wenjie Chen, Protein Scientist University College London, @Wenjie-Ch
 
 ASMS team
 
+Xiaoyun Wang 
+
+Jianxian Sun
+
+Soaking/Cocystalization team
+
 Dr. Daren Fearon, Senior Beamline Scientist Diamond Light Source. 
 
 Dr. Jasmin Aschenbrenner, Scientist at Diamond Light Source 
